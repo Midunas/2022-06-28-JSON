@@ -1,0 +1,52 @@
+body{
+    background-color: rgb(31, 41, 32);
+    color: azure;
+}
+h1 {
+    text-align: center;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+.main-wrapper{
+    margin: auto;
+    width: 100%;
+    max-width: 1230px;
+}
+#movie-list{
+    display: flex;
+    flex-wrap: wrap;
+}
+.main-box{
+    width: 45%;
+    background-color: rgba(0, 1, 70, 0.158);
+    margin: 10px;
+    padding: 20px;
+    border-radius: 5px;
+    display: flex;
+    justify-content: space-between;
+}
+.movie-box{
+    padding-left: 15px;
+}
+img{
+    width: 200px;
+    height: 300px;
+    margin-top: 20px;
+}
+.star{
+    height: 20px;
+    width: 20px;
+    margin-top: -2px;
+}
+/* div{
+    padding-left: 10px;
+} */
+.genres{
+    color: rgb(0, 195, 255);   
+}
+.ratings{
+    padding-left: 10px;
+}
+#ratingStar{
+    display: flex;
+}

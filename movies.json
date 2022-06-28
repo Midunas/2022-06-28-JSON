@@ -1,0 +1,106 @@
+[
+  {
+    "image": "https://upload.wikimedia.org/wikipedia/en/3/3b/Pulp_Fiction_%281994%29_poster.jpg",
+    "name": "Pulp fiction",
+    "reviews": {
+      "count": 2000000,
+      "avarage reviews": 8.9
+    },
+    "releaseYear": 1994,
+    "description": "The lives of two mob hitmen, a boxer, a gangster and his wife, and a pair of diner bandits intertwine in four tales of violence and redemption.",
+    "genres": ["Crime", "Drama"],
+    "director": ["Quentin Tarantino"],
+    "stars": ["John Travolta", "Uma Thurman", "Samuel L. Jackson"]
+  },
+  { 
+    "image": "https://upload.wikimedia.org/wikipedia/en/1/1c/The_Dark_Knight_%282008_film%29.jpg",
+    "name": "The Dark Knight",
+    "reviews": {
+      "count": 2600000,
+      "avarage reviews": 9
+    },
+    "releaseYear": 2008,
+    "description": "When the menace known as the Joker wreaks havoc and chaos on the people of Gotham, Batman must accept one of the greatest psychological and physical tests of his ability to fight injustice.",
+    "genres": ["Action", "Crime", "Drama"],
+    "director": ["Christopher Nolan"],
+    "stars": ["Christian Bale", "Heath Ledger", "Aaron Eckhart"]
+  },
+  {
+    "image": "https://upload.wikimedia.org/wikipedia/en/thumb/6/67/Forrest_Gump_poster.jpg/220px-Forrest_Gump_poster.jpg",
+    "name": "Forrest Gump",
+    "reviews": {
+      "count": 2000000,
+      "avarage reviews": 9
+    },
+    "releaseYear": 1994,
+    "description": "The presidencies of Kennedy and Johnson, the Vietnam War, the Watergate scandal and other historical events unfold from the perspective of an Alabama man with an IQ of 75, whose only desire is to be reunited with his childhood sweetheart.",
+    "genres": ["Drama", "Romance"],
+    "director": ["Robert Zemeckis"],
+    "stars": ["Tom Hanks", "Rebecca Williams", "Sally Field"]
+  },
+  {
+    "image": "https://upload.wikimedia.org/wikipedia/en/6/68/Seven_%28movie%29_poster.jpg",
+    "name": "Se7en",
+    "reviews": {
+      "count": 1600000,
+      "avarage reviews": 8.6
+    },
+    "releaseYear": 1995,
+    "description": "Two detectives, a rookie and a veteran, hunt a serial killer who uses the seven deadly sins as his motives.",
+    "genres": ["Crime", "Drama", "Mistery"],
+    "director": ["Andrew Kevin Walker"],
+    "stars": ["Brad Pitt", "Morgan Freeman", "Kevin Spacey"]
+  },
+  {
+    "image": "https://upload.wikimedia.org/wikipedia/en/b/bc/Interstellar_film_poster.jpg",
+    "name": "Interstellar",
+    "reviews": {
+      "count": 1700000,
+      "avarage reviews": 8.6
+    },
+    "releaseYear": 2010,
+    "description": "A team of explorers travel through a wormhole in space in an attempt to ensure humanity's survival.",
+    "genres": ["Adventure", "Drama", "Sci-Fi"],
+    "director": ["Christofer Nolan"],
+    "stars": ["Matthew McConaughey", "Anne Hathaway", "Jessica Chastain"]
+  },
+  {
+    "image":"https://upload.wikimedia.org/wikipedia/en/thumb/d/db/Spirited_Away_Japanese_poster.png/220px-Spirited_Away_Japanese_poster.png",
+    "name": "Spirited Away",
+    "reviews": {
+      "count": 7380000,
+      "avarage reviews": 8.6
+    },
+    "releaseYear": 2001,
+    "description": "During her family's move to the suburbs, a sullen 10-year-old girl wanders into a world ruled by gods, witches, and spirits, and where humans are changed into beasts.",
+    "genres": ["Adventure", "Drama"],
+    "director": ["Hayao Miyazaki"],
+    "stars": ["Rumi Hiiragi", "Miyu Irino"]
+  },
+  {
+    "image":"https://upload.wikimedia.org/wikipedia/en/2/2e/Inception_%282010%29_theatrical_poster.jpg",
+    "name": "Inception",
+    "reviews": {
+      "count": 20300000,
+      "avarage reviews": 8.8
+    },
+    "releaseYear": 2010,
+    "description": "A thief who steals corporate secrets through the use of dream-sharing technology is given the inverse task of planting an idea into the mind of a C.E.O., but his tragic past may doom the project and his team to disaster.",
+    "genres": ["Adventure", "Drama", "Sci-Fi"],
+    "director": ["Christopher Nolan"],
+    "stars": ["Leonardo DiCaprio", "Elliot Page"]
+  },
+  {
+    "image":"https://upload.wikimedia.org/wikipedia/en/8/8a/The_Lord_of_the_Rings_The_Fellowship_of_the_Ring_%282001%29.jpg",
+    "name": "The Lord of the Rings: The Fellowship of the Ring",
+    "reviews": {
+      "count": 18300000,
+      "avarage reviews": 8.8
+    },
+    "releaseYear": 2001,
+    "description": "A meek Hobbit from the Shire and eight companions set out on a journey to destroy the powerful One Ring and save Middle-earth from the Dark Lord Sauron.",
+    "genres": ["Adventure", "Drama", "Sci-Fi"],
+    "director": ["Peter Jackson"],
+    "stars": ["Elijah Wood", "Ian McKellen"]
+  }
+]
